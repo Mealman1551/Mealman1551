@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ***I use next to ![Windows](https://custom-icon-badges.demolab.com/badge/Windows%2011-0078D6?logo=windows11&logoColor=white) also ![Ubuntu](https://img.shields.io/badge/Ubuntu%2024.04-E95420?logo=ubuntu&logoColor=white)***
 - 🌐 Favorite browser: ![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)
 - 😋 Favorite food: ***Pasta's***
-### Other tings I do
+### Other things I do
 - I make music under the name [Perkursion](https://open.spotify.com/artist/3vrUbpZOSkl0KFk7VaSkXW?si=eACMQk-TQNugTb7-fx2XBg)
 - I have a [music-label](https://www.youtube.com/@Scalt-Records)
 - I love to create ![shield.io](https://img.shields.io/badge/shield.io-blue?style=plastic) badges
