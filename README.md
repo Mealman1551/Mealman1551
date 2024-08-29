@@ -1,7 +1,9 @@
 ### FAQ's
 - 👋 Hi, I’m: ![Mealman1551](https://img.shields.io/badge/Mealman1551-af2031?style=plastic)
-- 👀 I’m interested in: ![Everything with computers and code](https://img.shields.io/badge/Everything%20with%20computers%20and%20code-42f56c?style=plastic)
-- 🌱 I’m currently learning: ***Python, Microsoft Batch/VBS***
+- 👀 I’m interested in: ![Everything with computers and code](https://img.shields.io/badge/Everything%20with%20computers%20and%20code-418294?style=plastic)
+- 🌱 I’m currently learning: ![Python](https://img.shields.io/badge/Python-blue?style=plastic&logo=python) and ![Microsoft Batch/VBS](https://img.shields.io/badge/Microsoft%20Batch/VBS-blue?style=plastic&logo=windows)
+
+
 - 💞️ I’m looking to collaborate on: ***Nothing, just my personal repo's***
 - 📫 How to reach me: ***nathandubuy4@gmail.com***
 - 😄 Pronouns: ***He/Him***
