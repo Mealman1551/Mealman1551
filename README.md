@@ -14,6 +14,6 @@
 - I have a [music-label](https://www.youtube.com/@Scalt-Records)
 - I love to create ![shield.io](https://img.shields.io/badge/shield.io-blue?style=plastic) badges
 ### Projects I want to do in the future
-- Chromeon: _A secure and private Chrome experience with a build-in Adblocker (BlockMeon) and Manifest V1, V2 and V3 support_
-- Stable Code: _An IDE with rich functionalities and intergrated interperters for languages_
+- Chromeon: _A secure and private Chrome experience with a build-in Adblocker (BlockMeon) and Manifest V1, V2 and V3 support_*.*
+- Stable Code: _An IDE with rich functionalities and intergrated interperters for languages_*.*
 ###### © 2024 Mealman1551
