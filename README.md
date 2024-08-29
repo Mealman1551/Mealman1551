@@ -6,7 +6,7 @@
 - 📫 How to reach me: ***nathandubuy4@gmail.com***
 - 😄 Pronouns: ***He/Him***
 - ⚡ Fun fact: ***I use next to Windows also Linux***
-- 🌐 Favorite browser: [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)
+- 🌐 Favorite browser: ![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)
 - 😋 Favorite food: ***Pasta's***
 ### Other tings I do
 - I make music under the name [Perkursion](https://open.spotify.com/artist/3vrUbpZOSkl0KFk7VaSkXW?si=eACMQk-TQNugTb7-fx2XBg)
