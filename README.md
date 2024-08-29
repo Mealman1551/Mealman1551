@@ -1,13 +1,12 @@
 ### FAQ's
 - 👋 Hi, I’m: ![Mealman1551](https://img.shields.io/badge/Mealman1551-af2031?style=plastic)
 - 👀 I’m interested in: ![Everything with computers and code](https://img.shields.io/badge/Everything%20with%20computers%20and%20code-418294?style=plastic)
-- 🌱 I’m currently learning: ![Python](https://img.shields.io/badge/Python-blue?style=plastic&logo=python) and ![Microsoft Batch/VBS](https://img.shields.io/badge/Microsoft%20Batch/VBS-blue?style=plastic&logo=windows)
-
-
+- 🌱 I’m currently learning: ![Python](https://img.shields.io/badge/Python-ffc42d?style=plastic&logo=python) and ![Microsoft Batch/VBS](https://img.shields.io/badge/Microsoft%20Batch/VBS-blue?style=plastic&logo=windows)
+- 💽 Software I use to code: ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 - 💞️ I’m looking to collaborate on: ***Nothing, just my personal repo's***
-- 📫 How to reach me: ***nathandubuy4@gmail.com***
+- 📫 How to reach me: [![Mail me](https://img.shields.io/badge/Mail%20me-purple?style=plastic)](mailto:nathandubuy4@gmail.com)
 - 😄 Pronouns: ***He/Him***
-- ⚡ Fun fact: ***I use next to Windows also Linux***
+- ⚡ Fun fact: ***I use next to ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white) also ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)***
 - 🌐 Favorite browser: ![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)
 - 😋 Favorite food: ***Pasta's***
 ### Other tings I do
