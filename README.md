@@ -1,5 +1,5 @@
 ### FAQ's
-- 👋 Hi, I’m: ***@Mealman1551***
+- 👋 Hi, I’m: [***@Mealman1551***](https://img.shields.io/badge/Mealman1551-blue?style=plastic)
 - 👀 I’m interested in: ***Everything with computers and code***
 - 🌱 I’m currently learning: ***Python, Microsoft Batch/VBS***
 - 💞️ I’m looking to collaborate on: ***Nothing, just my personal repo's***
