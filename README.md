@@ -1,4 +1,4 @@
-### FAQ's
+### About me
 - 👋 Hi, I’m: ![Mealman1551](https://img.shields.io/badge/Mealman1551-af2031?style=plastic)
 - 👀 I’m interested in: ![Everything with computers and code](https://img.shields.io/badge/Everything%20with%20computers%20and%20code-418294?style=plastic)
 - 🌱 I’m currently learning: ![Python](https://img.shields.io/badge/Python-ffc42d?style=plastic&logo=python) and ![Microsoft Batch/VBS](https://img.shields.io/badge/Microsoft%20Batch/VBS-blue?style=plastic&logo=windows)
