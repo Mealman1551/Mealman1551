@@ -12,7 +12,7 @@
 ### Other things I do
 - I make music under the name [Perkursion](https://open.spotify.com/artist/3vrUbpZOSkl0KFk7VaSkXW?si=eACMQk-TQNugTb7-fx2XBg)
 - I have a [music-label](https://www.youtube.com/@Scalt-Records)
-- I love to create ![shield.io](https://img.shields.io/badge/shield.io-blue?style=plastic) badges
+- I love to create ![Shields.io](https://img.shields.io/badge/Shields.io-blue?style=plastic) badges
 ### Projects I want to do in the future
 - Chromeon: _A secure and private Chrome experience with a build-in Adblocker (BlockMeon) and Manifest V1, V2 and V3 support_*.*
 - Stable Code: _An IDE with rich functionalities and intergrated interperters for languages_*.*
