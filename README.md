@@ -1,5 +1,6 @@
 ### About me
 - 👋 Hi, I’m: ![Mealman1551](https://img.shields.io/badge/Mealman1551-af2031?style=plastic)
+- ⏲️ I'm 18 years old
 - 👀 I’m interested in: ***Everything with computers and code***
 - 🌱 I’m currently learning: ![Python](https://img.shields.io/badge/Python-ffc42d?style=plastic&logo=python) and ![C#](https://img.shields.io/badge/C%23-purple?style=plastic)
 - 💽 Software I use to code: ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
