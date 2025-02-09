@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on: ***Nothing, just my personal repo's***
 - 📫 How to reach me: [![Mail me](https://img.shields.io/badge/Mail%20me-purple?style=plastic)](mailto:nathandubuy4@gmail.com)
 - 😄 Pronouns: ***He/Him***
-- ⚡ Fun fact: ***I use next to ![Windows](https://custom-icon-badges.demolab.com/badge/Windows%2011-0078D6?logo=windows11&logoColor=white) also ![Ubuntu](https://img.shields.io/badge/Ubuntu%2024.04-E95420?logo=ubuntu&logoColor=white) and ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)***
+- ⚡ Fun fact: ***I use next to ![Windows](https://custom-icon-badges.demolab.com/badge/Windows%2011-0078D6?logo=windows11&logoColor=white) also ![Ubuntu](https://img.shields.io/badge/Ubuntu%2024.04-E95420?logo=ubuntu&logoColor=white) and ![Debian](https://img.shields.io/badge/Debian%2012%20Bookworm-A81D33?logo=debian&logoColor=fff)***
 - 🌐 Favorite browser: ![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)
 - 😋 Favorite food: ***Pasta's***
 ### Other things I do
