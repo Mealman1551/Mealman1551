@@ -11,6 +11,11 @@
 - 🌐 Favorite browser: ![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)
 - 😋 Favorite food: ***Pasta's***
 - ⌨️ (Programming) Languages I know: [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#) **|** Dutch 🇳🇱 English 🇺🇸 And a bit French 🇫🇷
+
+### GitHub Stats
+![Mealman1551's Stats](https://github-readme-stats.vercel.app/api?username=Mealman1551&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+![Mealman1551's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mealman1551&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+
 ### Other things I do
 - I make music [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/artist/3vrUbpZOSkl0KFk7VaSkXW?si=eACMQk-TQNugTb7-fx2XBg)
 - I have a record label [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Scalt-Records)
