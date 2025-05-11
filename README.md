@@ -22,6 +22,6 @@ I absolutely dont port software i create to MacOS because i'm not happy with the
 - I make music [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/artist/3vrUbpZOSkl0KFk7VaSkXW?si=eACMQk-TQNugTb7-fx2XBg)
 - I have a record label [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Scalt-Records)
 ### Projects I want to do in the future
-- Chromeon: _A secure and private Chromium experience with a build-in Adblocker (BlockMeon) and Manifest V1, V2 and V3 support_*.*
+- ChromeOn: _A secure and private Chromium experience with a build-in Adblocker (BlockOn) and Manifest V2 and V3 support_*.*
 - Stable Code: _An IDE with rich functionalities and intergrated interpreters for languages_*.*
 ###### © 2025 Mealman1551
