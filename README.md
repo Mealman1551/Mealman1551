@@ -1,5 +1,5 @@
 ### About me
-- 👋 Hi, I’m: Mealman1551
+- 👋 Hi, I’m: ***Mealman1551***
 - ⏲️ I'm 18 years old
 - 👀 I’m interested in: ***Everything with computers and code***
 - 🌱 I’m currently learning: ![Python](https://img.shields.io/badge/Python-ffc42d?style=plastic&logo=python) and [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) **/** [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
