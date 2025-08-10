@@ -1,6 +1,6 @@
 ### About me
 - 👋 Hi, I’m: ***Mealman1551***
-- ⏲️ I'm 18 years old
+- ⏲️ I'm 19 years old
 - 👀 I’m interested in: ***Everything with computers and code***
 - 🌱 I’m currently learning: ![Python](https://img.shields.io/badge/Python-ffc42d?style=plastic&logo=python) and [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) **/** [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
 - 💽 Software I use to code: ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white) ***and*** [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%202022-5C2D91.svg?&logo=visual-studio&logoColor=white)](#) ***and*** [![Rider](https://img.shields.io/badge/Rider-000?logo=rider&logoColor=fff)](#) ***and*** [![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
