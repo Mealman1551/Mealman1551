@@ -26,5 +26,8 @@ I don’t port my software to macOS because I’m not a fan of its closed ecosys
 - **ChromeOn:** _A secure and private Chromium experience with a built-in Adblocker (BlockOn) and Manifest V2/V3 support._
 - **Stable Code:** _An IDE with rich features and integrated interpreters for multiple languages._
 
+### Things and languages I want to learn
+I would love to learn: C, Rust, Java and JavaScript.
+
 ###### © 2025 Mealman1551
 
