@@ -12,7 +12,7 @@
 - 😋 Favorite food: ***Pasta's***
 - ⌨️ (Programming) Languages I know: [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#) **|** Dutch 🇳🇱 English 🇺🇸 And a bit French 🇫🇷
 
-I absolutely dont port software i create to MacOS because i'm not happy with their closed ecosystem and harsh requirements for code signing!
+I don’t port the software I create to macOS because I’m not comfortable with their closed ecosystem and strict code-signing requirements.
 
 ### GitHub Stats
 ![Mealman1551's Stats](https://github-readme-stats.vercel.app/api?username=Mealman1551&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
