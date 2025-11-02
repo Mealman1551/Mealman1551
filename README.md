@@ -22,9 +22,9 @@ I don’t port my software to macOS because I’m not a fan of its closed ecosys
 - 🎵 I produce music on [Spotify](https://open.spotify.com/artist/3vrUbpZOSkl0KFk7VaSkXW?si=eACMQk-TQNugTb7-fx2XBg)
 - 📀 I run a record label on [YouTube](https://www.youtube.com/@Scalt-Records)
 
-### Future Projects
+<!--### Future Projects
 - **ChromeOn:** _A secure and private Chromium experience with a built-in Adblocker (BlockOn) and Manifest V2/V3 support._
-- **Stable Code:** _An IDE with rich features and integrated interpreters for multiple languages._
+- **Stable Code:** _An IDE with rich features and integrated interpreters for multiple languages._-->
 
 ### Things and languages I want to learn
 I would love to learn: C, Rust, Java and JavaScript.
