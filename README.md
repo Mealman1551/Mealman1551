@@ -8,7 +8,7 @@
 - 📫 Contact me: [Mail](mailto:nathandubuy4@gmail.com)
 - 😄 Pronouns: ***He/Him***
 - ⚡ Fun fact: I use ![Windows](https://custom-icon-badges.demolab.com/badge/Windows%2011-0078D6?logo=windows11&logoColor=white), ![Ubuntu](https://img.shields.io/badge/Ubuntu%2024.04-E95420?logo=ubuntu&logoColor=white), ![Debian](https://img.shields.io/badge/Debian%2013%20Trixie-A81D33?logo=debian&logoColor=fff) and ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)
-- 🌐 Favorite browsers: [![Firefox](https://img.shields.io/badge/Firefox%20Nightly-FF7139?logo=Firefox&logoColor=white)](#) and [![Chrome](https://img.shields.io/badge/Chromium-4285F4?logo=GoogleChrome&logoColor=white)](#)
+- 🌐 Favorite browsers: [![Firefox](https://img.shields.io/badge/Firefox%20Nightly-teal?logo=Firefox&logoColor=white)](#) and [![Chrome](https://img.shields.io/badge/Chromium-4285F4?logo=GoogleChrome&logoColor=white)](#)
 - 😋 Favorite food: Pasta
 - ⌨️ Languages I know: [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#), [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#), [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#), [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#), [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
 
