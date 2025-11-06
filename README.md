@@ -19,7 +19,7 @@ I don’t port my software to macOS because I’m not a fan of its closed ecosys
 
 ### Other Things I Do
 - 🎵 I produce music on [Spotify](https://open.spotify.com/artist/3vrUbpZOSkl0KFk7VaSkXW?si=eACMQk-TQNugTb7-fx2XBg)
-- 📀 I used to run a record label on [YouTube](https://www.youtube.com/@Scalt-Records)
+- 📀 I used to run a record label [here](https://www.youtube.com/@Scalt-Records)
 
 <!--### Future Projects
 - **ChromeOn:** _A secure and private Chromium experience with a built-in Adblocker (BlockOn) and Manifest V2/V3 support._
