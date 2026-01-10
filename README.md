@@ -27,5 +27,5 @@ I don’t port my software to macOS because I’m not a fan of its closed ecosys
 ### Things and languages I want to learn
 I would love to learn: C, Rust, Java and JavaScript.
 
-###### © 2025 Mealman1551
+###### © 2026 Mealman1551
 
