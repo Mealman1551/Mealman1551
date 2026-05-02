@@ -16,8 +16,9 @@ I don’t port my software to macOS because I’m not a fan of its closed ecosys
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mealman1551&layout=compact&theme=catppuccin_mocha)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mealman1551&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Mealman1551&layout=compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Mealman1551&layout=compact&bg_color=1e1e2e&title_color=cdd6f4&text_color=cdd6f4&hide_border=true)
 
 ### Other Things I Do
 - 🎵 I produce music on [Spotify](https://open.spotify.com/artist/3vrUbpZOSkl0KFk7VaSkXW?si=eACMQk-TQNugTb7-fx2XBg)
