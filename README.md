@@ -14,7 +14,8 @@
 
 I don’t port my software to macOS because I’m not a fan of its closed ecosystem and strict code-signing rules.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mealman1551layout=compact&theme=catppuccin_mocha)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mealman1551&layout=compact&theme=catppuccin_mocha)
+
 ### Other Things I Do
 - 🎵 I produce music on [Spotify](https://open.spotify.com/artist/3vrUbpZOSkl0KFk7VaSkXW?si=eACMQk-TQNugTb7-fx2XBg)
 - 📀 I used to run a record label [here](https://www.youtube.com/@Scalt-Records)
