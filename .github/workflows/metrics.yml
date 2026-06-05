@@ -1,4 +1,6 @@
 name: Metrics
+permissions:
+  contents: write
 
 on:
   schedule:
@@ -17,3 +19,4 @@ jobs:
           base: header, activity, repositories
           output_action: commit
           filename: metrics.svg
+          use_prebuilt_image: yes
