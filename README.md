@@ -1,3 +1,5 @@
+![Metrics](metrics.svg)
+
 ### About Me
 - 👋 Hi, I’m ***Mealman1551 or Nathan du Buy***
 - ⏲️ 19 years old
