@@ -2,7 +2,7 @@
 
 ### About Me
 - 👋 Hi, I’m ***Mealman1551 or Nathan du Buy***
-- ⏲️ 19 years old
+- ⏲️ 20 years old
 - 🎆 Massive Linux and Chromium fan
 - 👀 Interested in: ***Everything about computers and coding***
 - 🌱 Currently learning: [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#), [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) **/** [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#), [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#), [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#), [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
